@@ -6,8 +6,15 @@ Hello, it's me, I was wondering...
 ส่วนบรรทัดนี้ได้ถูกแก้ไขจากโฟลเดอร์ `test1`
 test
 KKKKKK
+123456
+
 Kuy
+
 gsd
 fsdfsdgjto24hkrwl'gadl,;hrasfdsdf
 asda
 sfgwegwegweg
+
+
+
+asda
